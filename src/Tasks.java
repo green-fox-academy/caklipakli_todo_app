@@ -6,4 +6,8 @@ public class Tasks {
         this.task = task;
     }
 
+    public String getTask(){
+        return getTask();
+    }
+
 }
